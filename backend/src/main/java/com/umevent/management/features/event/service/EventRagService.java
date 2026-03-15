@@ -1,5 +1,7 @@
-package com.umevent.management.event;
+package com.umevent.management.features.event.service;
 
+import com.umevent.management.features.event.model.EventPlanResponse;
+import com.umevent.management.features.event.model.HistoricalEventPattern;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

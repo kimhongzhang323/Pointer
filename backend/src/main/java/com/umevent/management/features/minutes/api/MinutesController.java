@@ -1,5 +1,8 @@
-package com.umevent.management.ai;
+package com.umevent.management.features.minutes.api;
 
+import com.umevent.management.features.minutes.model.MinutesRecord;
+import com.umevent.management.features.minutes.model.MinutesUpdateRequest;
+import com.umevent.management.features.minutes.service.MinutesAnalysisService;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.umevent.management.ai;
+package com.umevent.management.features.minutes.model;
 
 import java.time.LocalDate;
 import java.util.List;

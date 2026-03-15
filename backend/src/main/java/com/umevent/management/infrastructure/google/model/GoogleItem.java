@@ -1,4 +1,4 @@
-package com.umevent.management.google;
+package com.umevent.management.infrastructure.google.model;
 
 import java.time.LocalDateTime;
 

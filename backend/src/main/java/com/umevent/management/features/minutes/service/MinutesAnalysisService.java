@@ -1,5 +1,6 @@
-package com.umevent.management.ai;
+package com.umevent.management.features.minutes.service;
 
+import com.umevent.management.features.minutes.model.MinutesRecord;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;

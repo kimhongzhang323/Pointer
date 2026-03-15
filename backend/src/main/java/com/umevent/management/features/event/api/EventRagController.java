@@ -1,5 +1,9 @@
-package com.umevent.management.event;
+package com.umevent.management.features.event.api;
 
+import com.umevent.management.features.event.model.EventPlanRequest;
+import com.umevent.management.features.event.model.EventPlanResponse;
+import com.umevent.management.features.event.model.HistoricalEventPattern;
+import com.umevent.management.features.event.service.EventRagService;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

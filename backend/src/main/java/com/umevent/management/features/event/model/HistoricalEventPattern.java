@@ -1,4 +1,4 @@
-package com.umevent.management.event;
+package com.umevent.management.features.event.model;
 
 import java.util.Map;
 

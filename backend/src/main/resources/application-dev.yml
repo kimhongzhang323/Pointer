@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/umevent
+    username: admin
+    password: admin
+  jpa:
+    hibernate:
+      ddl-auto: update # Allow hibernate to update schema in dev
+  h2:
+    console:
+      enabled: true

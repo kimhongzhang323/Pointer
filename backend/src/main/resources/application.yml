@@ -1,17 +1,42 @@
 server:
   port: 8080
+  shutdown: graceful
 
 spring:
   application:
     name: um-event-management
+  profiles:
+    active: dev # Default to dev
+  datasource:
+    hikari:
+      maximum-pool-size: 10
+      minimum-idle: 2
+      idle-timeout: 30000
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+    show-sql: false
+  flyway:
+    enabled: true
 
 management:
   endpoints:
     web:
       exposure:
-        include: health,info
+        include: health,info,prometheus,metrics
+  endpoint:
+    health:
+      show-details: when_authorized
+  metrics:
+    tags:
+      application: ${spring.application.name}
 
 app:
   google:
     driveFolderId: ${GOOGLE_DRIVE_FOLDER_ID:demo-folder}
     gmailQuery: ${GOOGLE_GMAIL_QUERY:subject:(event OR meeting)}
+
+logging:
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
