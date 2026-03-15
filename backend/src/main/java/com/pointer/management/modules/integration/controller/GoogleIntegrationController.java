@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.integration.controller;
+package com.pointer.management.modules.integration.controller;
 
 import com.pointer.management.modules.integration.dto.GoogleItem;
 import com.pointer.management.modules.integration.service.GoogleIntegrationService;

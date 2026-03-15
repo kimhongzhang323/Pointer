@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.integration.service;
+package com.pointer.management.modules.integration.service;
 
 import com.pointer.management.infrastructure.config.properties.GeminiConfigProperties;
 import org.springframework.stereotype.Service;

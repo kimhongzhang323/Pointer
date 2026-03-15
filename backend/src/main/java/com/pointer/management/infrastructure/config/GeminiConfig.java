@@ -1,4 +1,4 @@
-﻿package com.pointer.management.infrastructure.config;
+package com.pointer.management.infrastructure.config;
 
 import com.pointer.management.infrastructure.config.properties.GeminiConfigProperties;
 import org.springframework.context.annotation.Bean;

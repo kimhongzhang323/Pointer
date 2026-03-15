@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.minutes.service;
+package com.pointer.management.modules.minutes.service;
 
 import com.pointer.management.modules.minutes.dto.MinutesRecord;
 import org.springframework.stereotype.Service;

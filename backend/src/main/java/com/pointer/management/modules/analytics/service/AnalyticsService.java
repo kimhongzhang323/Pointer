@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.analytics.service;
+package com.pointer.management.modules.analytics.service;
 
 import com.pointer.management.modules.analytics.dto.DepartmentEvaluationResponse;
 import com.pointer.management.modules.analytics.dto.DepartmentRankingItem;

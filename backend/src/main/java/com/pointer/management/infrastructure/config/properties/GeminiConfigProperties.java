@@ -1,4 +1,4 @@
-﻿package com.pointer.management.infrastructure.config.properties;
+package com.pointer.management.infrastructure.config.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

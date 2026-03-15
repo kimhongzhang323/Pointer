@@ -1,4 +1,4 @@
-﻿package com.pointer.management.infrastructure.config;
+package com.pointer.management.infrastructure.config;
 
 import com.pointer.management.infrastructure.config.properties.KafkaConfigProperties;
 import org.apache.kafka.clients.consumer.ConsumerConfig;

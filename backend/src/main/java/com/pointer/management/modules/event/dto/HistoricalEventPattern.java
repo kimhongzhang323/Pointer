@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.event.dto;
+package com.pointer.management.modules.event.dto;
 
 import java.util.Map;
 

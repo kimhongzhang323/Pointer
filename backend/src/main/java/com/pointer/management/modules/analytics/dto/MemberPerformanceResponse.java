@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.analytics.dto;
+package com.pointer.management.modules.analytics.dto;
 
 import java.time.LocalDate;
 import java.util.List;

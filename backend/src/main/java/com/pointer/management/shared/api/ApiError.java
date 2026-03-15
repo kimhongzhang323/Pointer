@@ -1,4 +1,4 @@
-﻿package com.pointer.management.shared.api;
+package com.pointer.management.shared.api;
 
 import java.time.Instant;
 import java.util.List;

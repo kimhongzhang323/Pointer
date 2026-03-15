@@ -1,4 +1,4 @@
-﻿package com.pointer.management.infrastructure.config;
+package com.pointer.management.infrastructure.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

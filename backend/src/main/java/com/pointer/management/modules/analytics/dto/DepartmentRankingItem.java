@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.analytics.dto;
+package com.pointer.management.modules.analytics.dto;
 
 public record DepartmentRankingItem(
     int rank,

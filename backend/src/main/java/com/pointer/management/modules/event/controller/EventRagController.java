@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.event.controller;
+package com.pointer.management.modules.event.controller;
 
 import com.pointer.management.modules.event.service.EventRagService;
 import com.pointer.management.modules.event.dto.EventPlanRequest;

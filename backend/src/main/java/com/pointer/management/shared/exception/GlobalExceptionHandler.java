@@ -1,4 +1,4 @@
-﻿package com.pointer.management.shared.exception;
+package com.pointer.management.shared.exception;
 
 import com.pointer.management.shared.api.ApiError;
 import jakarta.servlet.http.HttpServletRequest;

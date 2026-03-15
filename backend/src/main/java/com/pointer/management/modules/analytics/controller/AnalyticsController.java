@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.analytics.controller;
+package com.pointer.management.modules.analytics.controller;
 
 import com.pointer.management.modules.analytics.service.AnalyticsService;
 import com.pointer.management.modules.analytics.dto.DepartmentEvaluationResponse;

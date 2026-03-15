@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.minutes.controller;
+package com.pointer.management.modules.minutes.controller;
 
 import com.pointer.management.modules.minutes.service.MinutesAnalysisService;
 import com.pointer.management.modules.minutes.dto.MinutesRecord;

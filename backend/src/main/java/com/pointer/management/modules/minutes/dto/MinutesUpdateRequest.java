@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.minutes.dto;
+package com.pointer.management.modules.minutes.dto;
 
 import jakarta.validation.constraints.NotBlank;
 

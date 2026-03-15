@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.event.service;
+package com.pointer.management.modules.event.service;
 
 import com.pointer.management.modules.event.dto.EventPlanResponse;
 import com.pointer.management.modules.event.dto.HistoricalEventPattern;

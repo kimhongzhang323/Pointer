@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.integration.dto;
+package com.pointer.management.modules.integration.dto;
 
 import java.time.LocalDateTime;
 

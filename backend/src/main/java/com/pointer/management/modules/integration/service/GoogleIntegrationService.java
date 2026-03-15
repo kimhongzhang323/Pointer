@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.integration.service;
+package com.pointer.management.modules.integration.service;
 
 import com.pointer.management.modules.integration.dto.GoogleItem;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,2 +1,2 @@
-﻿@org.springframework.lang.NonNullApi
+@org.springframework.lang.NonNullApi
 package com.pointer.management.modules.user.repo;

@@ -1,4 +1,4 @@
-﻿package com.pointer.management.shared.logging;
+package com.pointer.management.shared.logging;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

@@ -1,4 +1,4 @@
-﻿package com.pointer.management.modules.minutes.dto;
+package com.pointer.management.modules.minutes.dto;
 
 import java.time.LocalDate;
 import java.util.List;

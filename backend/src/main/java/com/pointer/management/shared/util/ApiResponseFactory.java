@@ -1,4 +1,4 @@
-﻿package com.pointer.management.shared.util;
+package com.pointer.management.shared.util;
 
 import com.pointer.management.shared.api.ApiResponse;
 import org.slf4j.MDC;
