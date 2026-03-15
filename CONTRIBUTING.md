@@ -1,4 +1,4 @@
-# Contributing to UMEventManagement
+# Contributing to Pointer
 
 Welcome! We are excited to have you contribute to our platform.
 

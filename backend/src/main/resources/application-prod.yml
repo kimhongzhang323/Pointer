@@ -1,4 +1,4 @@
-spring:
+﻿spring:
   datasource:
     url: ${DATABASE_URL}
     username: ${DATABASE_USERNAME}
@@ -13,4 +13,4 @@ spring:
 logging:
   level:
     root: INFO
-    com.umevent.management: INFO
+    com.pointer.management: INFO

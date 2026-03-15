@@ -1,4 +1,4 @@
-﻿# UM Event Management Platform
+﻿# Pointer
 
 ![Backend CI](https://github.com/kimhongzhang323/UMEventManager/actions/workflows/backend-ci.yml/badge.svg)
 ![Frontend CI](https://github.com/kimhongzhang323/UMEventManager/actions/workflows/frontend-ci.yml/badge.svg)
@@ -76,7 +76,7 @@ npm start
 The project strictly follows a Domain-Driven modular architecture.
 
 ```text
-UMEventManagement/
+Pointer/
 ├── backend/                  # Spring Boot System
 │   └── src/main/java/.../modules/ # Bounded Contexts (analytics, auth, event, integration, minutes, user)
 ├── frontend/                 # Angular SPA

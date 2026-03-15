@@ -1,9 +1,9 @@
-# Backend Production Structure
+﻿# Backend Production Structure
 
 ## Package Layout
 
 ```text
-com.umevent.management
+com.pointer.management
 |- bootstrap/                 # App entrypoint and startup wiring
 |- shared/                    # Cross-cutting concerns shared by all modules
 |  |- api/                    # Standard API response and error wrappers
